@@ -1,0 +1,789 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 700px;
+}
+h1 {
+  font-weight: 1000;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  size: 16px;
+  line-height: 24px;
+  color: #0f2d52;
+  padding-top: 100px;
+  line-height: 40px;
+}
+
+p {
+  color: #0f2d52;
+  font-weight: 500px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+div.najman {
+  background-color: #ddf4ff;
+  font-weight: 400;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  size: 16px;
+  line-height: 24px;
+  color: #0f2d52;
+  margin-top: 1;
+  height: 870px;
+}
+
+.first-div {
+  background-color: #ddf4ff;
+  width: 35%;
+  position: relative;
+  left: 750px;
+}
+#hussain {
+  color: #fefbfa;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-decoration: none;
+  background-color: #0f2d52;
+  border-radius: 50px;
+}
+#tree {
+  position: relative;
+  bottom: 490px;
+  left: 150px;
+}
+
+#navbar {
+  height: 60px;
+  background-color: #97daf8;
+}
+
+#first {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  color: #0f2d52;
+  font-size: 25px;
+  position: relative;
+  top: 20px;
+  left: 150px;
+}
+#first:hover {
+  text-decoration: underline;
+}
+#second {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  color: #0f2d52;
+  font-size: 25px;
+  position: relative;
+  top: 20px;
+  left: 170px;
+}
+
+#second:hover {
+  text-decoration: underline;
+}
+
+#thirth {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  color: #0f2d52;
+  font-size: 25px;
+  position: relative;
+  top: 20px;
+  left: 200px;
+}
+
+#thirth:hover {
+  text-decoration: underline;
+}
+
+#fourth {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  color: #0f2d52;
+  font-size: 25px;
+  position: relative;
+  top: 20px;
+  left: 370px;
+}
+
+#fourth:hover {
+  text-decoration: underline;
+}
+
+#fifth {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  color: #0f2d52;
+  font-size: 25px;
+  position: relative;
+  top: 20px;
+  left: 390px;
+}
+
+#fifth:hover {
+  text-decoration: underline;
+}
+
+#sixth {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  line-height: 18px;
+  color: #0f2d52;
+  font-size: 25px;
+  position: relative;
+  top: 20px;
+  left: 410px;
+}
+
+#sixth:hover {
+  text-decoration: underline;
+}
+
+#seventh {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 18px;
+  color: #0f2d52;
+  position: relative;
+  top: 20px;
+  left: 430px;
+}
+
+#seventh:hover {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+.second-dev {
+  height: 100px;
+}
+
+#logo {
+  width: 300px;
+  object-fit: cover;
+  position: relative;
+  left: 100px;
+}
+#eight {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 18px;
+  color: #0652ea;
+  position: relative;
+  bottom: 55px;
+  left: 120px;
+}
+
+#nine {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 18px;
+  color: #0652ea;
+  position: relative;
+  bottom: 55px;
+  left: 140px;
+}
+
+#ten {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 18px;
+  color: #0652ea;
+  position: relative;
+  bottom: 55px;
+  left: 160px;
+}
+
+#eleven {
+  display: inline;
+  padding-right: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 18px;
+  color: #0652ea;
+  position: relative;
+  bottom: 55px;
+  left: 180px;
+}
+
+#green h2 {
+  width: 400px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 24px;
+  color: #0f2d52;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  position: relative;
+  left: 100px;
+  bottom: 400px;
+}
+.first-paragraph {
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 70;
+  line-height: 24px;
+  font-size: 20px;
+  color: #0f2d52;
+  position: relative;
+  left: 100px;
+  bottom: 400px;
+}
+
+#twelve {
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 70;
+  line-height: 24px;
+  font-size: 20px;
+  color: #0f2d52;
+  position: relative;
+  left: 140px;
+  bottom: 380px;
+  border: 3px solid;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+}
+
+#red h2 {
+  width: 400px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 24px;
+  color: #0f2d52;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  position: relative;
+  left: 600px;
+  bottom: 565px;
+}
+.second-paragraph {
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 70;
+  line-height: 24px;
+  font-size: 20px;
+  color: #0f2d52;
+  position: relative;
+  left: 600px;
+  bottom: 565px;
+}
+
+#thirten {
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 70;
+  line-height: 24px;
+  font-size: 20px;
+  color: #0f2d52;
+  position: relative;
+  left: 600px;
+  bottom: 550px;
+  border: 3px solid;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+}
+
+#blue h2 {
+  width: 400px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 24px;
+  color: #0f2d52;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  position: relative;
+  left: 1100px;
+  bottom: 730px;
+}
+.third-paragraph {
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 70;
+  line-height: 24px;
+  font-size: 20px;
+  color: #0f2d52;
+  position: relative;
+  left: 1100px;
+  bottom: 730px;
+}
+
+#fourten {
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 70;
+  line-height: 24px;
+  font-size: 20px;
+  color: #0f2d52;
+  position: relative;
+  left: 1100px;
+  bottom: 720px;
+  border: 3px solid;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+}
+.second-h2 {
+  position: relative;
+  left: 400px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 6px;
+  color: #0f2d52;
+}
+.janm {
+  position: relative;
+  left: 300px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 550;
+  line-height: 24px;
+  font-size: 16px;
+  color: #0f2d52;
+}
+.ahmaq {
+  position: relative;
+  left: 630px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 600;
+  line-height: 24px;
+  font-size: 16px;
+  color: #0f2d52;
+}
+.blue-div1 {
+  height: 200px;
+  width: 200px;
+  background-color: #005486;
+  color: white;
+  position: relative;
+  left: 150px;
+}
+
+.span1 {
+  position: relative;
+  top: 40px;
+  left: 65px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 800;
+  line-height: 28px;
+  font-size: 32px;
+}
+
+.span2 {
+  position: relative;
+  left: 55px;
+  top: 60px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 20px;
+}
+
+.span3 {
+  position: relative;
+  left: -30px;
+  top: 90px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 18px;
+}
+
+.blue-div2 {
+  height: 200px;
+  width: 200px;
+  background-color: #005486;
+  color: white;
+  position: relative;
+  left: 400px;
+  bottom: 200px;
+}
+
+.span4 {
+  position: relative;
+  top: 40px;
+  left: 80px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 800;
+  line-height: 28px;
+  font-size: 32px;
+}
+
+.span5 {
+  position: relative;
+  left: 55px;
+  top: 60px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 20px;
+}
+
+.span6 {
+  position: relative;
+  left: -40px;
+  top: 90px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 18px;
+}
+
+.blue-div3 {
+  height: 200px;
+  width: 200px;
+  background-color: #005486;
+  color: white;
+  position: relative;
+  left: 650px;
+  bottom: 400px;
+}
+
+.span7 {
+  position: relative;
+  top: 40px;
+  left: 65px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 800;
+  line-height: 28px;
+  font-size: 32px;
+}
+
+.span8 {
+  position: relative;
+  left: 55px;
+  top: 60px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 20px;
+}
+
+.span9 {
+  position: relative;
+  left: 50px;
+  top: 60px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 18px;
+}
+
+.blue-div4 {
+  height: 200px;
+  width: 200px;
+  background-color: #005486;
+  color: white;
+  position: relative;
+  left: 900px;
+  bottom: 600px;
+}
+
+.span10 {
+  position: relative;
+  top: 70px;
+  left: 65px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 800;
+  line-height: 28px;
+  font-size: 32px;
+}
+
+.span11 {
+  position: relative;
+  left: 70px;
+  top: 80px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 22px;
+}
+.blue-div5 {
+  height: 200px;
+  width: 200px;
+  background-color: #005486;
+  color: white;
+  position: relative;
+  left: 1150px;
+  bottom: 800px;
+}
+
+.span12 {
+  position: relative;
+  top: 50px;
+  left: 30px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 800;
+  line-height: 28px;
+  font-size: 32px;
+}
+
+.span13 {
+  position: relative;
+  left: 40px;
+  top: 55px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 22px;
+}
+.span14 {
+  position: relative;
+  left: 20px;
+  top: 60px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 22px;
+}
+.span15 {
+  position: relative;
+  left: 40px;
+  top: 65px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 28px;
+  font-size: 22px;
+}
+.span16 {
+  position: relative;
+  left: 55px;
+  top: -50px;
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 800;
+  line-height: 28px;
+  font-size: 22px;
+}
+
+.third-h2 {
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 20px;
+  color: #0f2d52;
+}
+
+.span17 {
+  position: relative;
+  bottom: 750px;
+  left: 250px;
+}
+.span18 {
+  position: relative;
+  bottom: 710px;
+  left: -225px;
+}
+.span19 {
+  position: relative;
+  bottom: 675px;
+  right: 720px;
+}
+.span20 {
+  position: relative;
+  font-size: 20px;
+  bottom: 690px;
+  right: 730px;
+}
+
+.four-h2 {
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 20px;
+  color: #0f2d52;
+}
+
+.span21 {
+  position: relative;
+  bottom: 790px;
+  left: 850px;
+}
+.span22 {
+  position: relative;
+  bottom: 755px;
+  left: 430px;
+}
+.span23 {
+  position: relative;
+  bottom: 720px;
+  right: 75px;
+}
+.span24 {
+  position: relative;
+  font-size: 20px;
+  bottom: 730px;
+  right: 85px;
+}
+
+li {
+  font-family: proxima-nova, Helvetica, Verdana, sans-serif;
+  font-weight: 500;
+  line-height: 24px;
+  font-size: 20px;
+  color: #0f2d52;
+  list-style: none;
+}
+
+.first-li {
+  position: relative;
+  bottom: 650px;
+  left: 30px;
+}
+
+.second-li {
+  position: relative;
+  bottom: 628px;
+  left: 30px;
+}
+
+.third-li {
+  position: relative;
+  bottom: 610px;
+  left: 30px;
+}
+
+.last-p {
+  position: relative;
+  bottom: 580px;
+  margin: 50px;
+  /* margin-top: -800px; */
+}
+
+.last-div {
+  position: relative;
+  top: -550px;
+  width: 100%;
+  height: 600px;
+  background-color: #0f2d52;
+}
+
+.white {
+  position: relative;
+  top: 20px;
+  left: 300px;
+  color: white;
+  line-height: 40px;
+  font-size: 14px;
+}
+
+.black {
+  list-style-position: outside;
+  position: relative;
+  top: -320px;
+  left: 700px;
+  color: white;
+  line-height: 40px;
+  font-size: 14px;
+}
+
+.third-div-li {
+  list-style-position: outside;
+  position: relative;
+  top: -660px;
+  left: 950px;
+}
+
+.yellow {
+  list-style-position: outside;
+  position: relative;
+  top: -25px;
+  left: 20px;
+  color: white;
+  line-height: 40px;
+  font-size: 14px;
+}
+.yellow:hover {
+  text-decoration: underline;
+}
+.black:hover {
+  text-decoration: underline;
+}
+.white:hover {
+  text-decoration: underline;
+}
+
+.last-pic {
+  position: relative;
+  top: -650px;
+  left: 580px;
+}
+
+.first-hr {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.last-p2 {
+  position: relative;
+  top: -630px;
+  left: 180px;
+  color: white;
+  font-size: 16px;
+}
+.border-div {
+  position: relative;
+  top: -690px;
+  left: 560px;
+  width: 1px;
+  height: 70px;
+  border: 1px solid white;
+  border-right: #0f2d52;
+  border-top: #0f2d52;
+  border-bottom: #0f2d52;
+}
+
+.last-p3 {
+  position: relative;
+  top: -770px;
+  left: 600px;
+  color: white;
+  font-size: 16px;
+}
+
+.last-link {
+  background-color: #005486;
+  position: relative;
+  top: -830px;
+  left: 1400px;
+  border-radius: 50%;
+  padding: 40px;
+}
